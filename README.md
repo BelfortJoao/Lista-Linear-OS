@@ -1,42 +1,36 @@
-# Linear List
-> Practical Work 01 – Algorithms and Data Structures 1<br/>
-Description: Implementation of an abstract type of a linear list, for an operating system to manage active processes, and their respective tests, together with a test file generator, and a performance evaluation.
-
-<br/>
-
-# Collaborators
-
-## Mateus Henrique
-Name: Mateus Henrique Vieira Figueiredo
-
-GitHub: [Mateus-Henr](https://github.com/Mateus-Henr)
-
-University: [UFV-Florestal](https://www.novoscursos.ufv.br/graduacao/caf/ccp/www/)
-
+# Lista-Linear-OS
+> Trabalho Prático 01 – Algoritimos e Estruturas de Dados 1 – Trios
+Descrição: implementação de um Tipo Abstrato de Dados Lista Linear, para que um sistema operacional faça gerência de processos ativos, e os seus respectivos testes, juntos de um gerador de arquivos de teste, e uma avaliação de desempenho.
+# Colaboradores
 ## João Victor
-Name: João Victor Graciano Belfort de Andrade
+Nome: João Victor Graciano Belfort de Andrade
 
-GitHub: [BelfortJoao](https://github.com/BelfortJoao)
+Usuário_GitHub: [BelfortJoao](https://github.com/BelfortJoao)
 
-University: Instituição: [UFV-Florestal](https://www.novoscursos.ufv.br/graduacao/caf/ccp/www/)
+Instituição: [UFV-Florestal](https://www.novoscursos.ufv.br/graduacao/caf/ccp/www/)
 
 ## Vitor Ribeiro
-Name: Vitor Ribeiro Lacerda
+Nome: Vitor Ribeiro Lacerda
 
-GitHub: [Vith-MCB](https://github.com/Vith-MCB)
+Usuário_GitHub: [Vith-MCB](https://github.com/Vith-MCB)
 
-University: [UFV-Florestal](https://www.novoscursos.ufv.br/graduacao/caf/ccp/www/)
+Instituição: [UFV-Florestal](https://www.novoscursos.ufv.br/graduacao/caf/ccp/www/)
 
-<br/>
+## Mateus Henrique
+Nome: Mateus Henrique Vieira Figueiredo
 
-# Files:
-### Folder "src":
+Usuário_GitHub: [Mateus-Henr](https://github.com/Mateus-Henr)
+
+Instituição: [UFV-Florestal](https://www.novoscursos.ufv.br/graduacao/caf/ccp/www/)
+
+## Arquivos:
+### Pasta Codes:
 * TProcesso.c e TProcesso.h
 * Lista_Processos.c e Lista_Processos.h
 * Gera_testes.c e Gera_testes.h
 * main.c
 
-### Folder "arquivos":
+### Pasta Arquivos:
 * Documentação.pdf
 * Teste(01) e (02)
 * Teste(03) e (04)
@@ -44,4 +38,3 @@ University: [UFV-Florestal](https://www.novoscursos.ufv.br/graduacao/caf/ccp/www
 * Teste(07) e (08)
 * Teste(09) e (10)
 * Teste(11) e (12)
-* Teste(23) e saída(23)
